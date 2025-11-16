@@ -1,7 +1,7 @@
 # README
 ## 说在前面的话
-- 首次，非常感谢B站up主**Voidmatrix**的教学视频对我的帮助。本游戏是参照该大佬的教学视频所做的开发和拓展；
-- 然后，非常感谢B站up主**void**的展示视频，我使用Pr软件截取其中角色MOD星见雅的关键帧，并配合Ps软件以及开源软件aseprite完成了对角色的模型构造；
+- 首次，非常感谢B站up主[**Voidmatrix**](https://space.bilibili.com/25864506)的教学视频对我的帮助。本游戏是参照该大佬的[教学视频](https://space.bilibili.com/25864506/lists/3521064?type=season)所做的开发和拓展；
+- 然后，非常感谢B站up主[**终焉苍龙**](https://space.bilibili.com/7054977)的[展示视频](https://www.bilibili.com/video/BV16x43zEEej/?spm_id_from=333.1387.homepage.video_card.click&vd_source=3cd75142b2fcb51c7056448c81846ce3)，我使用Pr软件截取其中角色MOD星见雅的关键帧，并配合Ps软件以及开源软件aseprite完成了对角色模型的构造；
 - 再次，需要指出的是，本游戏目前仍处于初级阶段，未来将会进一步更新完善...
 
 ## 开发环境及工具
@@ -45,4 +45,7 @@
 V1.0：<br>
 完成了基本框架；<br>
 缺少音频，缺少菜单界面，表现力不足，功能尚未完善，游戏内容少；<br>
-waiting for update...
+
+------------
+
+Waiting for update...
